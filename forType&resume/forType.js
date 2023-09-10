@@ -3,15 +3,15 @@ log(`JSON interate over all for loops
 ..........................................`)
 var json=[
 {
-    id:101,
-    name:"meena",
-    course:"cse",
-    pass:2018,
+    "id":101,
+    "name":"meena",
+    "course":"cse",
+    "pass":2018,
 },{
-    id:102,
-    name:"krishna",
-    course:"ece",
-    pass:2018,
+    "id":102,
+    "name":"krishna",
+    "course":"ece",
+    "pass":2018,
 }
 ];
 log(json);
