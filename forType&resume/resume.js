@@ -58,7 +58,7 @@ const resume= {
                   ], 
                   "languages": [
                     {
-                      "language": "Tamil,Enlish",
+                      "language": "Tamil,English",
                     }
                   ],   
                   "extra_Curticular_Activities":[
